@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "matrix.h": "c",
+        "stdlib.h": "c",
+        "cstdlib": "c",
+        "algorithm": "c",
+        "random.h": "c",
+        "gsimg.h": "c",
+        "mnistrd.h": "c"
+    }
+}
